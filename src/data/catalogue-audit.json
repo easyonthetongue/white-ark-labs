@@ -1,0 +1,771 @@
+{
+  "legacyCount": 89,
+  "finalCount": 47,
+  "counts": {
+    "KEEP": 20,
+    "MODIFY": 24,
+    "REPLACE": 3,
+    "REMOVE": 42
+  },
+  "entries": [
+    {
+      "legacyId": 1,
+      "name": "The Daily Tote",
+      "legacyType": "Tote Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-001",
+      "newProductSlug": "architect-tote",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 2,
+      "name": "Market Carryall",
+      "legacyType": "Tote Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-002",
+      "newProductSlug": "soft-market-tote",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 3,
+      "name": "East-West Tote",
+      "legacyType": "Tote Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-003",
+      "newProductSlug": "arc-shoulder-bag",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 4,
+      "name": "Open Shopper",
+      "legacyType": "Tote Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-004",
+      "newProductSlug": "linea-crossbody",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 5,
+      "name": "Structured Work Tote",
+      "legacyType": "Tote Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-005",
+      "newProductSlug": "column-bucket-bag",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 6,
+      "name": "Soft Market Bag",
+      "legacyType": "Tote Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-006",
+      "newProductSlug": "crescent-hobo",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 7,
+      "name": "Zip-Top Tote",
+      "legacyType": "Tote Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-007",
+      "newProductSlug": "frame-mini-bag",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 8,
+      "name": "Oversized Carryall",
+      "legacyType": "Tote Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-008",
+      "newProductSlug": "fold-clutch",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 9,
+      "name": "The Arc Shoulder",
+      "legacyType": "Shoulder Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-009",
+      "newProductSlug": "atelier-top-handle",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 10,
+      "name": "Soft Hobo",
+      "legacyType": "Shoulder Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-010",
+      "newProductSlug": "rider-satchel",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 11,
+      "name": "The Crescent",
+      "legacyType": "Shoulder Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-011",
+      "newProductSlug": "canvas-shopper",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 12,
+      "name": "East-West Shoulder",
+      "legacyType": "Shoulder Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-012",
+      "newProductSlug": "transform-handbag",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 13,
+      "name": "Top-Handle Shoulder",
+      "legacyType": "Shoulder Bag",
+      "disposition": "KEEP",
+      "newProductId": "WAL-WAL-041",
+      "newProductSlug": "oversized-weave-leather-tote",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 14,
+      "name": "Foldover Shoulder",
+      "legacyType": "Shoulder Bag",
+      "disposition": "REPLACE",
+      "newProductId": "WAL-044",
+      "newProductSlug": "vanity-makeup-case",
+      "rationale": "Unsuitable slot replaced with a missing product archetype required by the new taxonomy."
+    },
+    {
+      "legacyId": 15,
+      "name": "Curved Shoulder",
+      "legacyType": "Shoulder Bag",
+      "disposition": "REPLACE",
+      "newProductId": "WAL-045",
+      "newProductSlug": "line-cable-organizer",
+      "rationale": "Unsuitable slot replaced with a missing product archetype required by the new taxonomy."
+    },
+    {
+      "legacyId": 16,
+      "name": "Compact Shoulder",
+      "legacyType": "Shoulder Bag",
+      "disposition": "REPLACE",
+      "newProductId": "WAL-046",
+      "newProductSlug": "keepsake-jewelry-case",
+      "rationale": "Unsuitable slot replaced with a missing product archetype required by the new taxonomy."
+    },
+    {
+      "legacyId": 17,
+      "name": "The Form Crossbody",
+      "legacyType": "Crossbody Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 18,
+      "name": "Camera Form",
+      "legacyType": "Crossbody Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 19,
+      "name": "Saddle Crossbody",
+      "legacyType": "Crossbody Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 20,
+      "name": "Box Crossbody",
+      "legacyType": "Crossbody Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 21,
+      "name": "Mini Flap Crossbody",
+      "legacyType": "Crossbody Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 22,
+      "name": "Utility Crossbody",
+      "legacyType": "Crossbody Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 23,
+      "name": "Rounded Crossbody",
+      "legacyType": "Crossbody Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 24,
+      "name": "Minimal Daypack",
+      "legacyType": "Backpack",
+      "disposition": "KEEP",
+      "newProductId": "WAL-013",
+      "newProductSlug": "weekend-01",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 25,
+      "name": "Structured Backpack",
+      "legacyType": "Backpack",
+      "disposition": "KEEP",
+      "newProductId": "WAL-014",
+      "newProductSlug": "transit-duffel",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 26,
+      "name": "Soft Leather Pack",
+      "legacyType": "Backpack",
+      "disposition": "KEEP",
+      "newProductId": "WAL-015",
+      "newProductSlug": "frame-briefcase",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 27,
+      "name": "Roll-Top Backpack",
+      "legacyType": "Backpack",
+      "disposition": "KEEP",
+      "newProductId": "WAL-016",
+      "newProductSlug": "folio-laptop-bag",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 28,
+      "name": "Compact City Pack",
+      "legacyType": "Backpack",
+      "disposition": "KEEP",
+      "newProductId": "WAL-017",
+      "newProductSlug": "field-messenger",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 29,
+      "name": "The Frame Clutch",
+      "legacyType": "Clutch Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 30,
+      "name": "Envelope Clutch",
+      "legacyType": "Clutch Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 31,
+      "name": "Soft Evening Clutch",
+      "legacyType": "Clutch Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 32,
+      "name": "Folded Clutch",
+      "legacyType": "Clutch Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 33,
+      "name": "Slim Frame Clutch",
+      "legacyType": "Clutch Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 34,
+      "name": "Slim Work Briefcase",
+      "legacyType": "Briefcase",
+      "disposition": "KEEP",
+      "newProductId": "WAL-018",
+      "newProductSlug": "city-leather-backpack",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 35,
+      "name": "Structured Briefcase",
+      "legacyType": "Briefcase",
+      "disposition": "KEEP",
+      "newProductId": "WAL-019",
+      "newProductSlug": "route-carryall",
+      "rationale": "Useful existing archetype and imagery retained as a catalogue starting point."
+    },
+    {
+      "legacyId": 36,
+      "name": "Zip Briefcase",
+      "legacyType": "Briefcase",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-020",
+      "newProductSlug": "executive-portfolio",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 37,
+      "name": "Double-Gusset Briefcase",
+      "legacyType": "Briefcase",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 38,
+      "name": "Soft Executive Case",
+      "legacyType": "Briefcase",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 39,
+      "name": "Daily Messenger",
+      "legacyType": "Messenger Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 40,
+      "name": "Slim Messenger",
+      "legacyType": "Messenger Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 41,
+      "name": "Flap Messenger",
+      "legacyType": "Messenger Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 42,
+      "name": "Compact Messenger",
+      "legacyType": "Messenger Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 43,
+      "name": "Laptop Sleeve Bag",
+      "legacyType": "Laptop Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 44,
+      "name": "Structured Laptop Case",
+      "legacyType": "Laptop Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 45,
+      "name": "Zip Laptop Tote",
+      "legacyType": "Laptop Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 46,
+      "name": "Slim Work Case",
+      "legacyType": "Laptop Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 47,
+      "name": "The Weekender",
+      "legacyType": "Duffel Bag | Travel Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 48,
+      "name": "Soft Travel Duffel",
+      "legacyType": "Duffel Bag | Travel Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 49,
+      "name": "Structured Cabin Duffel",
+      "legacyType": "Duffel Bag | Travel Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 50,
+      "name": "Zip-Top Holdall",
+      "legacyType": "Duffel Bag | Travel Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 51,
+      "name": "Compact Gym Duffel",
+      "legacyType": "Duffel Bag | Travel Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 52,
+      "name": "Minimal Waist Pack",
+      "legacyType": "Fanny Pack | Waist Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 53,
+      "name": "Curved Belt Bag",
+      "legacyType": "Fanny Pack | Waist Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 54,
+      "name": "Utility Belt Bag",
+      "legacyType": "Fanny Pack | Waist Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 55,
+      "name": "Structured Cosmetic Case",
+      "legacyType": "Cosmetic Bag | Make Up Bag",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-039",
+      "newProductSlug": "studio-cosmetic-pouch",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 56,
+      "name": "Soft Make-Up Pouch",
+      "legacyType": "Cosmetic Bag | Make Up Bag",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-040",
+      "newProductSlug": "wash-toiletry-bag",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 57,
+      "name": "Travel Beauty Case",
+      "legacyType": "Cosmetic Bag | Make Up Bag",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-041",
+      "newProductSlug": "journey-travel-organizer",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 58,
+      "name": "Everyday Parent Tote",
+      "legacyType": "Diaper Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 59,
+      "name": "Convertible Nappy Bag",
+      "legacyType": "Diaper Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 60,
+      "name": "Organised Baby Bag",
+      "legacyType": "Diaper Bag",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 61,
+      "name": "Phone Crossbody",
+      "legacyType": "Phone Bag",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-021",
+      "newProductSlug": "classic-bifold",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 62,
+      "name": "Slim Phone Pouch",
+      "legacyType": "Phone Bag",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-022",
+      "newProductSlug": "slim-card-holder",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 63,
+      "name": "Mini Phone Case",
+      "legacyType": "Phone Bag",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-023",
+      "newProductSlug": "journey-passport-cover",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 64,
+      "name": "Continental Wallet",
+      "legacyType": "Purse | Wallet",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-024",
+      "newProductSlug": "loop-key-fob",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 65,
+      "name": "Zip-Around Wallet",
+      "legacyType": "Purse | Wallet",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-025",
+      "newProductSlug": "optic-eyewear-sleeve",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 66,
+      "name": "Compact Bifold",
+      "legacyType": "Purse | Wallet",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-026",
+      "newProductSlug": "pocket-phone-sleeve",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 67,
+      "name": "Soft Card Wallet",
+      "legacyType": "Purse | Wallet",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-027",
+      "newProductSlug": "grid-tech-organizer",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 68,
+      "name": "Long Flap Wallet",
+      "legacyType": "Purse | Wallet",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-028",
+      "newProductSlug": "round-coin-purse",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 69,
+      "name": "Travel Wash Kit",
+      "legacyType": "Washing Bag",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-042",
+      "newProductSlug": "everyday-zipper-pouch",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 70,
+      "name": "Hanging Wash Case",
+      "legacyType": "Washing Bag",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-043",
+      "newProductSlug": "gather-drawstring-pouch",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 71,
+      "name": "Classic Leather Belt",
+      "legacyType": "Belt",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-031",
+      "newProductSlug": "heritage-belt",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 72,
+      "name": "Slim Dress Belt",
+      "legacyType": "Belt",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-032",
+      "newProductSlug": "contour-fashion-belt",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 73,
+      "name": "Wide Everyday Belt",
+      "legacyType": "Belt",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-033",
+      "newProductSlug": "woven-belt",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 74,
+      "name": "Passport Folio",
+      "legacyType": "Passport Case",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-029",
+      "newProductSlug": "continental-zip-wallet",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 75,
+      "name": "Travel Document Case",
+      "legacyType": "Passport Case",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-030",
+      "newProductSlug": "document-case",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 76,
+      "name": "Key Fob",
+      "legacyType": "Leather Accessories",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-034",
+      "newProductSlug": "classic-watch-strap",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 77,
+      "name": "Cable Wrap Set",
+      "legacyType": "Leather Accessories",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-035",
+      "newProductSlug": "journey-luggage-tag",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 78,
+      "name": "Leather Desk Tray",
+      "legacyType": "Leather Accessories",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-036",
+      "newProductSlug": "companion-dog-collar",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 79,
+      "name": "Eyewear Sleeve",
+      "legacyType": "Leather Accessories",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-037",
+      "newProductSlug": "companion-leash",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 80,
+      "name": "Luggage Tag",
+      "legacyType": "Leather Accessories",
+      "disposition": "MODIFY",
+      "newProductId": "WAL-038",
+      "newProductSlug": "utility-strap",
+      "rationale": "Relevant slot retained with normalized category, B2B specifications, relationships and revised copy."
+    },
+    {
+      "legacyId": 81,
+      "name": "Slim Card Holder",
+      "legacyType": "Card Holder",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 82,
+      "name": "Folded Card Case",
+      "legacyType": "Card Holder",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 83,
+      "name": "Zip Card Wallet",
+      "legacyType": "Card Holder",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 84,
+      "name": "iPad Folio",
+      "legacyType": "Ipad Case",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 85,
+      "name": "Slim Tablet Sleeve",
+      "legacyType": "Ipad Case",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 86,
+      "name": "Zip Tablet Case",
+      "legacyType": "Ipad Case",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 87,
+      "name": "Leather Lead",
+      "legacyType": "Pet Supplies",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 88,
+      "name": "Collar and Lead Set",
+      "legacyType": "Pet Supplies",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    },
+    {
+      "legacyId": 89,
+      "name": "Treat Pouch",
+      "legacyType": "Pet Supplies",
+      "disposition": "REMOVE",
+      "newProductId": null,
+      "rationale": "Duplicate, outside the five-category scope, or less suitable than the selected reference."
+    }
+  ]
+}

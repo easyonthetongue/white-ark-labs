@@ -1,0 +1,14 @@
+{
+  "name": "forme-manufacturer-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static catalogue and quote-request website for FORME leather goods manufacturing.",
+  "scripts": {
+    "build": "node scripts/build-whiteark.mjs",
+    "dev": "node scripts/serve.mjs",
+    "test": "node --test tests/whiteark.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

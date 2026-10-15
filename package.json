@@ -1,0 +1,15 @@
+{
+  "name": "white-ark-labs-manufacturer-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static catalogue and quote-request website for WHITE ARK LABS leather goods manufacturing.",
+  "scripts": {
+    "build": "node scripts/audit-legacy.mjs && node scripts/validate-data.mjs && node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "products:sync": "node scripts/products-sync.mjs",
+    "test": "node --test tests/site.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
